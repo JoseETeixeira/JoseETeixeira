@@ -7,9 +7,9 @@
 
 ### 🔭 I’m currently working on:
 
-- [![MYG](https://github.com/JoseETeixeira/MYG)](MYG) MYG (Make Your Game) : An IDE to work with BYOND games, made in c++. It will eventually evolve into it's own engine.
+- [![a link](https://github.com/JoseETeixeira/MYG)] MYG (Make Your Game) : An IDE to work with BYOND games, made in c++. It will eventually evolve into it's own engine.
 - Trials Of Morana : My own 2D game made with MYG.
-- [![Paradise Engine](https://github.com/JoseETeixeira/ParadiseEngineVulkan)](Paradise Engine) Paradise Engine: A vulkan-based octree engine.
+- [![a link](https://github.com/JoseETeixeira/ParadiseEngineVulkan)] Paradise Engine: A vulkan-based octree engine.
 - 
 - Several third-party projects.
 
