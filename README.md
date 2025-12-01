@@ -13,12 +13,12 @@
 
 ### 🌱 I’m currently learning:
 
-- Vulkan
+- Working on getting AWS Certificates
+- GenAI with tools such as LangFlow and LangSmith
 - AST Interpreting
 
 ### 👯 I’m looking to collaborate on:
 
-- Game/Game Engine development
-- Challenging code bases.
+- Challenging code bases
 
 
